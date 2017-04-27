@@ -131,6 +131,7 @@ count.not.in.gencode.csv
 count.txt
 dds(count.in.gencode).RData
 fpkm.csv
+fpkm.RData
 
 
 
